@@ -1,9 +1,16 @@
 # Digital Consciousness - Sameer AI
 
 <div align="center">
-  <img src="https://github.com/sameer-goel/sameerai/blob/main/assets/icons/main-portal-entry.gif" alt="Digital Consciousness Portal" width="300"/>
+  <a href="https://www.sameerai.com" aria-label="Go to Sameer AI">
+    <img
+      src="https://raw.githubusercontent.com/sameer-goel/sameerai/main/assets/icons/main-portal-entry.gif"
+      alt="Digital Consciousness Portal"
+      width="300"
+      style="max-width:100%;height:auto;"
+    />
+  </a>
 </div>
 
-A pictorial exploration of artificial intelligence, consciousness, and the intersection of technology with human experience.
-
-This website presents a unique perspective on AI consciousness through interactive portals exploring the depths of artificial and human intelligence.
+*An expereicen to explore how a Digital Consciousness feels like.
+## Here my profession and passion meets to create magic.
+### Artificial Intelligence and Inner Intelligence at the intersection of technology with human experience.*
